@@ -15,7 +15,7 @@
 |[App Template 1](https://github.com/ArminPretorius/APP1)|C#|App template I made to ease development|Done|Private|
 |[App Template 2](https://github.com/ArminPretorius/APP2)|C#|App template I made to ease development|Done|Private|
 
-## Games ()
+## Games (11)
 |Name|Languages|Engine|Description|Status|Visibility|
 |--|--|--|--|--|--|
 |[Toon Tanks](https://github.com/ArminPretorius/Toon-Tanks)|C++|Unreal|Game for a game development course|In Progress|Private|
@@ -31,7 +31,7 @@
 |[Guess The Number](https://github.com/ArminPretorius/GuessTheNumber)|C#|Unity|Guess the number game I made for fun|Done|Private|
 
 
-## School Projects ()
+## School Projects (8)
 |Name|Languages|Description|Status|Visibility|
 |--|--|--|--|--|
 |[Tic-Tac-Toe AI](https://github.com/ArminPretorius/Tic-Tac-Toe-AI)|Python|Minimax algorithm to play tic-tac-toe against you|Done|Public|
@@ -43,14 +43,14 @@
 |[CMPG 323 Project 3](https://github.com/ArminPretorius/CMPG323-Project-3-34739572)|C#|Web app for the API made in project 2|Done|Private|
 |[CMPG 323 Project 2](https://github.com/ArminPretorius/CMPG323-Project-2-34739572)|C#|API made for planning done in project 1|Done|Private|
 
-## Websites ()
+## Websites (3)
 |Name|Languages|Description|Status|Link|
 |--|--|--|--|--|
 |[Portfolio Website](https://github.com/ArminPretorius/arminpretorius.github.io)|HTML, CSS|My portfolio website|Done|N/A|
 |[PMI Website](https://github.com/ArminPretorius/pixelmotioninteractive.com)|HTML, CSS|Website for one of my ventures|In Progress|N/A|
 |[BV Website](https://github.com/ArminPretorius/bitvelopment.com)|HTML, CSS|Website for one of my ventures|In Progress|N/A|
 
-## Misc ()
+## Misc (2)
 |Name|Description|Visibility|
 |--|--|--|
 |[About Me](https://github.com/ArminPretorius/ArminPretorius)|My about me section|Public|
