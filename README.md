@@ -4,7 +4,7 @@
 |--|--|--|--|--|
 |[Project Dragon Bot](https://github.com/ArminPretorius/ProjectDragon-Discord-Bot)|Python|Discord bot for my game development server|Done|Private|
 |[Botty McBottington](https://github.com/ArminPretorius/Botty-McBottington)|Python|Discord bot to annoy people|Done|Private|
-|[BSc IT Bot](https://github.com/ArminPretorius/BScITBot)|Python|Discord bot for the school server|Done|Private|
+|[BSc IT Bot](https://github.com/ArminPretorius/BScITBot)|Python|Discord bot for a school server|Done|Private|
 
 ## Apps (5)
 |Name|Languages|Description|Status|Visibility|
