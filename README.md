@@ -50,8 +50,9 @@
 |[PMI Website](https://github.com/ArminPretorius/pixelmotioninteractive.com)|HTML, CSS|Website for one of my ventures|In Progress|N/A|
 |[BV Website](https://github.com/ArminPretorius/bitvelopment.com)|HTML, CSS|Website for one of my ventures|In Progress|N/A|
 
-## Misc (2)
+## Misc (3)
 |Name|Description|Visibility|
 |--|--|--|
+|[Index](https://github.com/ArminPretorius/Index)|Index for all my projects|Public|
 |[About Me](https://github.com/ArminPretorius/ArminPretorius)|My about me section|Public|
 |[3D Assets](https://github.com/ArminPretorius/3D-Assets)|3D assets I made|Private|
