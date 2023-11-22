@@ -46,7 +46,7 @@
 ## Websites (3)
 |Name|Languages|Description|Status|Link|
 |--|--|--|--|--|
-|[Portfolio Website](https://github.com/ArminPretorius/arminpretorius.github.io)|HTML, CSS|My portfolio website|Done|N/A|
+|[Portfolio Website](https://github.com/ArminPretorius/arminpretorius.github.io)|HTML, CSS|My portfolio website|Done|[View](https://arminpretorius.com/)|
 |[PMI Website](https://github.com/ArminPretorius/pixelmotioninteractive.com)|HTML, CSS|Website for one of my ventures|In Progress|N/A|
 |[BV Website](https://github.com/ArminPretorius/bitvelopment.com)|HTML, CSS|Website for one of my ventures|In Progress|N/A|
 
