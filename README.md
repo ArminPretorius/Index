@@ -23,7 +23,6 @@
 |[Realm Rush](https://github.com/ArminPretorius/RealmRush)|C#|Unity|Tower defense game I made for a game development course|Done|Private
 |[Rocket](https://github.com/ArminPretorius/Rocket)|C#|Unity|Obstacle avoidance game I made for a game development course|Done|Private
 |[Snake](https://github.com/ArminPretorius/Snake)|C#|Unity|Snake game I made for fun|Done|Private
-|[Argon Assualt](https://github.com/ArminPretorius/ArgonAssault)|C#|Unity|Fixed line spaceship fighting game I made for a game development course|Done|Private
 |[Obstacle Course](https://github.com/ArminPretorius/ObstacleCourse)|C#|Unity|Obstacle avoidance game I made for a game development course|Done|Private|
 |[Memory Match](https://github.com/ArminPretorius/MemoryMatch)|C#|Unity|Memory match game I made for fun|Done|Private|
 |[Tic-Tac-Toe](https://github.com/ArminPretorius/TicTacToe)|C#|Unity|Tic-tac-toe game I made for fun|Done|Private|
