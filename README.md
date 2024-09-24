@@ -42,13 +42,6 @@
 |[CMPG 323 Project 3](https://github.com/ArminPretorius/CMPG323-Project-3-34739572)|C#|Web app for the API made in project 2|Done|Private|
 |[CMPG 323 Project 2](https://github.com/ArminPretorius/CMPG323-Project-2-34739572)|C#|API made for planning done in project 1|Done|Private|
 
-## Websites (3)
-|Name|Languages|Description|Status|Link|
-|--|--|--|--|--|
-|[Portfolio Website](https://github.com/ArminPretorius/arminpretorius.github.io)|HTML, CSS|My portfolio website|Done|[View](https://arminpretorius.com/)|
-|[PMI Website](https://github.com/ArminPretorius/pixelmotioninteractive.com)|HTML, CSS|Website for one of my ventures|In Progress|N/A|
-|[BV Website](https://github.com/ArminPretorius/bitvelopment.com)|HTML, CSS|Website for one of my ventures|In Progress|N/A|
-
 ## Misc (3)
 |Name|Description|Visibility|
 |--|--|--|
