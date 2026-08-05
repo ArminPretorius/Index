@@ -15,7 +15,7 @@
 ## Games (11)
 |Name|Languages|Engine|Description|Status|Visibility|
 |--|--|--|--|--|--|
-|[Toon Tanks](https://github.com/ArminPretorius/Toon-Tanks)|C++|Unreal|Game for a game development course|In Progress|Private|
+|[Toon Tanks](https://github.com/ArminPretorius/Toon-Tanks)|C++|Unreal|Game for a game development course|Done|Private|
 |[FPS Game](https://github.com/ArminPretorius/FPS-Game)|C#|Unity|FPS game I made for a game development course|Done|Private
 |[Realm Rush](https://github.com/ArminPretorius/RealmRush)|C#|Unity|Tower defense game I made for a game development course|Done|Private
 |[Rocket](https://github.com/ArminPretorius/Rocket)|C#|Unity|Obstacle avoidance game I made for a game development course|Done|Private
