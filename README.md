@@ -1,5 +1,17 @@
 # Index
 
+## School Projects (8)
+|Name|Languages|Description|Status|Visibility|
+|--|--|--|--|--|
+|[Tic-Tac-Toe AI](https://github.com/ArminPretorius/Tic-Tac-Toe-AI)|Python|Minimax algorithm to play tic-tac-toe against you|Done|Public|
+|[POS System](https://github.com/ArminPretorius/POS-System)|C#|POS system that manages inventory and sales for a business|Done|Public|
+|[Encryption Tool](https://github.com/ArminPretorius/EncryptionTool)|C#|Encryption app that encrypts and decrypts files with a password|Done|Public|
+|[CMPG 323 Overview](https://github.com/ArminPretorius/CMPG-323-Overview-34739572)|N/A|Overview and planning for all my CMPG 323 projects|Done|Public|
+|[Smart City Database](https://github.com/ArminPretorius/CMPG321-Group5-Project)|SQL|Smart city database for my advanced databases class|Done|Public|
+|[CMPG 323 Project 4](https://github.com/ArminPretorius/CMPG323-Project-4-34739572)|N/A|RPA for the web app made in project 3|Done|Public|
+|[CMPG 323 Project 3](https://github.com/ArminPretorius/CMPG323-Project-3-34739572)|C#|Web app for the API made in project 2|Done|Public|
+|[CMPG 323 Project 2](https://github.com/ArminPretorius/CMPG323-Project-2-34739572)|C#|API made for planning done in project 1|Done|Public|
+
 ## Games (11)
 |Name|Languages|Engine|Description|Status|Visibility|
 |--|--|--|--|--|--|
@@ -13,19 +25,6 @@
 |[Tic-Tac-Toe](https://github.com/ArminPretorius/TicTacToe)|C#|Unity|Tic-tac-toe game I made for fun|Done|Private|
 |[Whac-A-Mole](https://github.com/ArminPretorius/Whac-A-Mole)|C#|Unity|Whac-A-Mole game I made for fun|Done|Private|
 |[Guess The Number](https://github.com/ArminPretorius/GuessTheNumber)|C#|Unity|Guess the number game I made for fun|Done|Private|
-
-
-## School Projects (8)
-|Name|Languages|Description|Status|Visibility|
-|--|--|--|--|--|
-|[Tic-Tac-Toe AI](https://github.com/ArminPretorius/Tic-Tac-Toe-AI)|Python|Minimax algorithm to play tic-tac-toe against you|Done|Public|
-|[POS System](https://github.com/ArminPretorius/POS-System)|C#|POS system that manages inventory and sales for a business|Done|Public|
-|[Encryption Tool](https://github.com/ArminPretorius/EncryptionTool)|C#|Encryption app that encrypts and decrypts files with a password|Done|Public|
-|[CMPG 323 Overview](https://github.com/ArminPretorius/CMPG-323-Overview-34739572)|N/A|Overview and planning for all my CMPG 323 projects|Done|Private|
-|[Smart City Database](https://github.com/ArminPretorius/CMPG321-Group5-Project)|SQL|Smart city database for my advanced databases class|Done|Private|
-|[CMPG 323 Project 4](https://github.com/ArminPretorius/CMPG323-Project-4-34739572)|N/A|RPA for the web app made in project 3|Done|Private|
-|[CMPG 323 Project 3](https://github.com/ArminPretorius/CMPG323-Project-3-34739572)|C#|Web app for the API made in project 2|Done|Private|
-|[CMPG 323 Project 2](https://github.com/ArminPretorius/CMPG323-Project-2-34739572)|C#|API made for planning done in project 1|Done|Private|
 
 ## Misc (3)
 |Name|Description|Visibility|
