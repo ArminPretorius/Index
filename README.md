@@ -1,19 +1,4 @@
 # Index
-## Discord Bots (3)
-|Name|Languages|Description|Status|Visibility|
-|--|--|--|--|--|
-|[Project Dragon Bot](https://github.com/ArminPretorius/ProjectDragon-Discord-Bot)|Python|Discord bot for my game development server|Done|Private|
-|[Botty McBottington](https://github.com/ArminPretorius/Botty-McBottington)|Python|Discord bot to annoy people|Done|Private|
-|[BSc IT Bot](https://github.com/ArminPretorius/BScITBot)|Python|Discord bot for a school server|Done|Private|
-
-## Apps (5)
-|Name|Languages|Description|Status|Visibility|
-|--|--|--|--|--|
-|[SMPLX Engine](https://github.com/ArminPretorius/SMPLX-Engine)|C++, C#|Game engine I am making for fun|In Progress|Private|
-|[Score Vote Checker](https://github.com/ArminPretorius/Score-Vote-Checker)|C++, Python|App that checks who guessed the closest to the actual score in a game|Done|Private|
-|[DwnTube](https://github.com/ArminPretorius/DwnTube)|Python|App that lets you download youtube videos|In Progress|Private|
-|[App Template 1](https://github.com/ArminPretorius/APP1)|C#|App template I made to ease development|Done|Private|
-|[App Template 2](https://github.com/ArminPretorius/APP2)|C#|App template I made to ease development|Done|Private|
 
 ## Games (11)
 |Name|Languages|Engine|Description|Status|Visibility|
